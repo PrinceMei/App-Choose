@@ -8,7 +8,7 @@
 
 ## 目录
 
-1. [MacApp-Choose](https://github.com/runsunlife/App-Choose/raw/master/MacApp-Choose.md)（持续更新）
+1. [MacApp-Choose](./MacApp-Choose.md)（持续更新）
    - Alfred膜拜记
    - iTerm终端中的战斗机
    - OmniFocus源于专注
