@@ -8,7 +8,7 @@
 
 ## 目录
 
-1. MacApp-Choose（持续更新）
+1. [MacApp-Choose](https://github.com/runsunlife/App-Choose/raw/master/MacApp-Choose.md)（持续更新）
    - Alfred膜拜记
    - iTerm终端中的战斗机
    - OmniFocus源于专注
@@ -42,10 +42,20 @@
 ## 娱乐
 
 >  作为一个逗比选手自认为强迫症晚期秀一下自己的桌面可别喷。
+>
+>  就是感觉Readme没Gif图不好看 不用理我。
 
 - iPhone桌面 受不了一个角标 位置摆放错乱
+
+  ![](https://github.com/runsunlife/App-Choose/raw/master/Source/APPiphone.gif)
+
 - iPhone已购列表 好长好长 心路历程
+
+  ![](https://github.com/runsunlife/App-Choose/raw/master/Source/APPs.gif)
+
 - Mac的Launchpad感觉好简单撒
+
+  ![](https://github.com/runsunlife/App-Choose/raw/master/Source/Launchpad.png)
 
 ## 正版
 
