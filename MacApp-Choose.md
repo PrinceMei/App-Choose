@@ -26,7 +26,7 @@
 
 > [简简单单收发邮件](./MacApp-article/简简单单收发邮件.md)
 
-| 名称                                       | 简述                 |       |
+| 名称                                       | 简述                 |价格       |
 | :--------------------------------------- | :----------------- | :---- |
 | [Outlook](https://products.office.com/zh-cn/home?WT.mc_id=oan_winnav_office) | 很强大 也很臃肿           | 订阅365 |
 | [Airmail](https://itunes.apple.com/cn/app/airmail-3/id918858936?mt=12)★ | 最优雅的客户端            | ¥68   |
