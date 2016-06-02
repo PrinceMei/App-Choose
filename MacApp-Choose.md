@@ -1,4 +1,4 @@
-# MacApp-Chppse
+# MacApp-Choose
 
 [>>查看目录](./README.md)
 
