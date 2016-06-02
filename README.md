@@ -9,7 +9,7 @@
 ## 目录
 
 1. [MacApp-Choose](./MacApp-Choose.md)（持续更新）
-   - Alfred膜拜记
+   - [Alfred膜拜记](./MacApp-article/Alfred膜拜记.md)
    - iTerm终端中的战斗机
    - OmniFocus源于专注
    - Markdown工具使用记
