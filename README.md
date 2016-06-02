@@ -16,8 +16,8 @@
    - [我最终选择的笔记本](./MacApp-article/我最终选择的笔记本.md)
    - [我用即刻和RSS那点事](./MacApp-article/我用即刻和RSS那点事.md)
    - [简简单单收发邮件](./MacApp-article/简简单单收发邮件.md)
-2. iOSAPP-Choose（正在努力写中）
-3. 希望有一天可以开此目录评测手机
+2. [iOSAPP-Choose](./iOSApp-Choose.md)（正在努力写中）
+3. 希望有一天可以开此目录评测电子产品
 
 ## 前言
 
@@ -69,7 +69,7 @@
 
 ## ChangeLog
 
-更新记录：ChangeLog
+更新记录：[ChangeLog](./ChangeLog.md)
 
 ## License
 
