@@ -10,12 +10,12 @@
 
 1. [MacApp-Choose](./MacApp-Choose.md)（持续更新）
    - [Alfred膜拜记](./MacApp-article/Alfred膜拜记.md)
-   - iTerm终端中的战斗机
-   - OmniFocus源于专注
-   - Markdown工具使用记
-   - 我最终选择的笔记本
-   - 我用即刻和RSS那点事
-   - 简简单单收发邮件
+   - [iTerm终端中的战斗机](./MacApp-article/iTerm终端中的战斗机.md)
+   - [OmniFocus源于专注](./MacApp-article/Alfred膜拜记.md)
+   - [Markdown工具使用记](./MacApp-article/Markdown工具使用记.md)
+   - [我最终选择的笔记本](./MacApp-article/我最终选择的笔记本.md)
+   - [我用即刻和RSS那点事](./MacApp-article/我用即刻和RSS那点事.md)
+   - [简简单单收发邮件](./MacApp-article/简简单单收发邮件.md)
 2. iOSAPP-Choose（正在努力写中）
 3. 希望有一天可以开此目录评测手机
 
