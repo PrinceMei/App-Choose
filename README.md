@@ -65,6 +65,11 @@
 - 感谢那些帮助过我的人 我是不是应该哭一下 :cry:弄个获奖感言啥的。
 - 不要脸的谢谢自己 希望能得到关注 咱也弄个公众号 QQ群啥的 耍一耍。
 
+## To Do List
+
+- [ ]添加iPhone Choose
+- [ ]写一片分类的文章
+
 ## ChangeLog
 
 更新记录：[ChangeLog](./ChangeLog.md)
