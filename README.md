@@ -67,7 +67,7 @@
 
 ## To Do List
 
-- [ ] 添加iPhone Choose
+- [ ] 添加iOS-Choose
 - [ ] 写一片分类的文章
 
 ## ChangeLog
