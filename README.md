@@ -21,7 +21,7 @@
 
 ## 前言
 
-*本人及其喜欢App和电子产品看了[Best App](https://github.com/hzlzh/Best-App)这个list很佩服，自己大感后悔，想想经常给身边人推荐电子产品和App 但还没自身总结过所以按照自己的习惯 做了一个list*
+*本人极其喜欢App和电子产品看了[Best App](https://github.com/hzlzh/Best-App)这个list很佩服，自己大感后悔，想想经常给身边人推荐电子产品和App 但还没自身总结过所以按照自己的习惯 做了一个list*
 
 ## 主要
 
